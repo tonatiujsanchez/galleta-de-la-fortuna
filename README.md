@@ -1,6 +1,6 @@
 # Galletas de la fortuna <img src="https://img.icons8.com/color/32/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/32/000000/react-native.png"/>
 
-Este es un proyecto simple desarrollado en [React](https://reactjs.org/) que genera frases aleatorias para galletas de la fortuna. Cada vez que se presiona el botón "Probar mi suerte", se muestra una nueva frase y se cambia la imagen de fondo para una experiencia visual agradable.
+Este es un proyecto desarrollado en [React](https://reactjs.org) que genera frases aleatorias para galletas de la fortuna. Cada vez que se presiona el botón "Probar mi suerte", se muestra una nueva frase y se cambia la imagen de fondo para una experiencia visual agradable.
 
 [![Portafolio de Tonatiuj Sánchez](/public/img/screen-app.webp)](https://galletadelafortuna-jsx.netlify.app)
 
@@ -46,7 +46,7 @@ npm run dev
 
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un __issue__ para discutir nuevas características o problemas, o enviar un __pull request__ con tus mejoras propuestas.
 
-## Version React + Typescript <img src="https://img.icons8.com/color/32/000000/typescript.png"/> 
+## Versión React + Typescript <img src="https://img.icons8.com/color/32/000000/typescript.png"/> 
 
 También desarrollé este proyecto en su version de React con Typescript, puedes explorarlo en el siguiente enlace: https://github.com/tonatiujsanchez/galleta-de-la-fortuna-ts
 
