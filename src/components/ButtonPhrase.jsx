@@ -5,7 +5,7 @@ export const ButtonPhrase = ({ onClick }) => {
     return (
         <button
             onClick={ onClick }
-            className="phrase_button"
+            className="phrase__button"
         >
             Probar mi suerte
         </button>
